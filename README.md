@@ -20,7 +20,7 @@
 ---
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![C](https://img.shields.io/badge/C-blue)
 
