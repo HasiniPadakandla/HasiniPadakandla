@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi, I'm Hasini
 
-<!--
-**HasiniPadakandla/HasiniPadakandla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE-AIML Graduate  
+💡 Curious about the AI Technologies and the usage of AI tools and LLMs.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 💻 I enjoy exploring various AI tools  
+- 🔍 Currently exploring **Machine Learning, Artificial Intelligence, Prompt Engineering**
+- 🌱 Learning **ML pipelines, Artificial Intelligence Tools**
+- 💬 Ask me about **AI/ML, or tech in general**
+
+---
+
+### 🌐 Social Handles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
+[![X](https://img.shields.io/badge/X-black?logo=x)](YOUR_X_URL)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:YOUR_EMAIL)
+
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![C](https://img.shields.io/badge/C-blue)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn)
+
+---
+
+⭐ *Thanks for visiting my profile!*
