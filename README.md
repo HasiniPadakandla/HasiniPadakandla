@@ -1,21 +1,8 @@
-## 👋 Hi, I'm Hasini
+## 👋 Hi, I'm P. V. N. S. Hasini!
 
-🎓 B.Tech CSE-AIML Graduate  
-💡 Curious about the AI Technologies and the usage of AI tools and LLMs.  
+### About Me 🚀
 
----
-
-### 🧠 About Me
-- 💻 I enjoy exploring various AI tools  
-- 🔍 Currently exploring **Machine Learning, Artificial Intelligence, Prompt Engineering**
-- 🌱 Learning **ML pipelines, Artificial Intelligence Tools**
-- 💬 Ask me about **AI/ML, or tech in general**
-
----
-
-### 🌐 Social Handles
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/hasini-padakandla)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:hasinipadakandla@gmail.com)
+I am a **Computer Science Graduate** specialised in AIML Stream. I am very much passionate about **AI, ML, NLP, Deep Learning, Prompt Engineering**, and worked on various projects on my interested domain!!
 
 ---
 
@@ -47,5 +34,9 @@
 
 
 ---
+
+### 🌐 Social Handles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/hasini-padakandla)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:hasinipadakandla@gmail.com)
 
 ⭐ *Thanks for visiting my profile!*
