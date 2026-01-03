@@ -23,7 +23,6 @@
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![C](https://img.shields.io/badge/C-blue)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
 ### 📊 Data & ML Libraries
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn)
