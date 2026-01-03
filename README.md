@@ -1,5 +1,5 @@
-## 👋 Welcome to my profile!
-- ### Myself, P. V. N. S. Hasini
+# 👋 Welcome to my profile!
+- ## Myself, P. V. N. S. Hasini
 
 - An **AI & Machine Learning Enthusiast** actively seeking **AI/ML-related technical roles** and a recent Computer Science graduate specialized in Artificial Intelligence & Machine Learning, with a strong passion for building intelligent systems and data-driven solutions.
 
@@ -54,8 +54,8 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasini-padakandla/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:hasinipadakandla@gmail.com)
 
 ---
 
