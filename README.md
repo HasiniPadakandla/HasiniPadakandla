@@ -30,8 +30,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2C5AA0?logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
 
 ### 📈 Concepts (EDA, Visualization, ML, DL)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00?logo=chartdotjs&logoColor=white)
