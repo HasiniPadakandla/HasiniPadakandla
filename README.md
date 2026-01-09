@@ -47,7 +47,7 @@
 
 ## 🚀 Remarkable Projects 
 
-- [MedSynth Health Risk Predictor]([https://github.com/HasiniPadakandla/MedSynth-Health-Risk-Predictor.git]) - **Predictive Healthcare Analytics System** that uses machine learning and CTGAN-generated synthetic data to assess multi-morbidity risk in patients.   
+- [MedSynth Health Risk Predictor](https://github.com/HasiniPadakandla/MedSynth-Health-Risk-Predictor.git) - **Predictive Healthcare Analytics System** that uses machine learning and CTGAN-generated synthetic data to assess multi-morbidity risk in patients.   
 - [FAKE NEWS DETECTOR](https://github.com/HasiniPadakandla/Fake-News-Detector.git) – Innovative **web application** designed specifically for students and educators to combat the growing problem of misinformation online.
 
 
