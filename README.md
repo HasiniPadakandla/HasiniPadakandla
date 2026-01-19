@@ -1,62 +1,25 @@
-# 👋 Welcome to my profile!
-- ## Myself, P. V. N. S. Hasini
+# 💫 About Me:
 
-- An **AI & Machine Learning Enthusiast** actively seeking **AI/ML-related technical roles** and a recent Computer Science graduate specialized in Artificial Intelligence & Machine Learning, with a strong passion for building intelligent systems and data-driven solutions.
+## 👋 Hi, I’m Hasini  <br><br>🎯 AIML enthusiast exploring how data, algorithms, and intelligence come together to solve real-world problems.<br><br>---<br><br>🔭 **I’m currently working on**  <br>- Machine Learning and AI mini projects  <br>- NLP-based applications like **sentiment analysis**  <br>- Smart assistants and automation using AI tools  <br>- End-to-end AIML project workflows<br><br>---<br><br>👯 **I’m looking to collaborate on**  <br>- Beginner-friendly **AI / ML projects**  <br>- NLP, text analysis, and data-driven applications  <br>- Open-source AIML repositories<br><br>---<br><br>🤝 **I’m looking for help with**  <br>- Model optimization and evaluation  <br>- Understanding real-world ML deployment concepts  <br>- Improving project architecture for AIML systems<br><br>---<br><br>🌱 **I’m currently learning**  <br>- Machine Learning fundamentals  <br>- Natural Language Processing (NLP)  <br>- Generative AI concepts and tools  <br>- Data preprocessing and feature engineering<br><br>---<br><br>⚡ **Fun fact**  <br>I enjoy watching **sunrises and sunsets** 🌅 — a reminder that consistent learning beats quick results.<br><br>---<br><br>📫 **Let’s connect**  <br>- LinkedIn: https://www.linkedin.com/in/hasini-padakandla/  <br>- Email: hasinipadakandla@gmail.com<br>
 
----
 
-## 🧠 About Me
-- 🤖 Passionate about **AI, Machine Learning, NLP, Deep Learning & Prompt Engineering**
-- 🔍 Interested in solving real-world problems using data and intelligent models
-- 🛠️ Hands-on experience through **multiple AIML-focused projects**
-- 🚀 Continuously learning and exploring emerging AI technologies
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HasiniPadakandla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hasiniiisphere) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasinipadakandla@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HasiniPadakandla&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HasiniPadakandla&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniPadakandla&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🛠️ Tech Stack
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HasiniPadakandla&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔹 Programming & Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
-
-### 🔹 Machine Learning & Deep Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A192F?logo=pytorch&logoColor=red)
-![CNN](https://img.shields.io/badge/Convolutional%20Neural%20Networks-FF4081?logo=tensorflow&logoColor=white)
-
-### 🔹 Data Analysis & Visualization
-![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-4CAF50?logo=databricks&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00?logo=chartdotjs&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C5AA0?logo=python&logoColor=white)
-
-### 🔹 AI Concepts & Tools
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-
-### 🔹 Developer Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HasiniPadakandla&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=HasiniPadakandla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Remarkable Projects 
-
-- [MedSynth Health Risk Predictor](https://github.com/HasiniPadakandla/MedSynth-Health-Risk-Predictor.git) - **Predictive Healthcare Analytics System** that uses machine learning and CTGAN-generated synthetic data to assess multi-morbidity risk in patients.   
-- [FAKE NEWS DETECTOR](https://github.com/HasiniPadakandla/Fake-News-Detector.git) – Innovative **web application** designed specifically for students and educators to combat the growing problem of misinformation online.
-
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasini-padakandla/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:hasinipadakandla@gmail.com)
-
----
-
-⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
