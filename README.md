@@ -1,25 +1,164 @@
-# 💫 About Me:
+<div align="center">
 
-## 👋 Hi, I’m Hasini  <br><br>🎯 AIML enthusiast exploring how data, algorithms, and intelligence come together to solve real-world problems.<br><br>---<br><br>🔭 **I’m currently working on**  <br>- Machine Learning and AI mini projects  <br>- NLP-based applications like **sentiment analysis**  <br>- Smart assistants and automation using AI tools  <br>- End-to-end AIML project workflows<br><br>---<br><br>👯 **I’m looking to collaborate on**  <br>- Beginner-friendly **AI / ML projects**  <br>- NLP, text analysis, and data-driven applications  <br>- Open-source AIML repositories<br><br>---<br><br>🤝 **I’m looking for help with**  <br>- Model optimization and evaluation  <br>- Understanding real-world ML deployment concepts  <br>- Improving project architecture for AIML systems<br><br>---<br><br>🌱 **I’m currently learning**  <br>- Machine Learning fundamentals  <br>- Natural Language Processing (NLP)  <br>- Generative AI concepts and tools  <br>- Data preprocessing and feature engineering<br><br>---<br><br>⚡ **Fun fact**  <br>I enjoy watching **sunrises and sunsets** 🌅 — a reminder that consistent learning beats quick results.<br><br>---<br><br>📫 **Let’s connect**  <br>- LinkedIn: https://www.linkedin.com/in/hasini-padakandla/  <br>- Email: hasinipadakandla@gmail.com<br>
+# Hi 👋, I'm P. V. N. S. Hasini
 
+### AI Intern at UptoSkills
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HasiniPadakandla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hasiniiisphere) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasinipadakandla@gmail.com) 
+<img src="https://github.com/HasiniPadakandla.png" alt="Hasini" width="150" height="150" style="border-radius: 50%;" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HasiniPadakandla&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HasiniPadakandla&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniPadakandla&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HasiniPadakandla&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HasiniPadakandla&limit=5&theme=dark&combine_all_yearly_contributions=true)
+AIML enthusiast focused on building practical machine learning and NLP
+projects.  
+I enjoy turning data into insights and exploring how AI solves real-world
+problems.
+
+## 📚 Learning & Knowledge
+
+<div align="left">
+
+- 🌱 I'm currently learning **DSA algorithms on Leetcode**
+
+</div>
+
+## 🚀 Projects
+
+| Project                                          | Description                                                                                                                                                                                                                                                                                                                 | Links                                                                                                                                            |
+| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| MedSynth Health Risk Predictor                   | MedSynth Health Risk Predictor that uses machine learning and CTGAN-generated synthetic data to assess multi-morbidity risk in patients. It offers real-time single and batch predictions through a Streamlit dashboard, enabling early intervention, privacy-preserving insights, and scalable clinical deployment.        | [Live](https://medsynth-health-risk-predictor.streamlit.app/) / [GitHub](https://github.com/HasiniPadakandla/MedSynth-Health-Risk-Predictor.git) |
+| Fake News Detection                              | Fake News Detector is an innovative web application designed specifically for students and educators to combat the growing problem of misinformation online. Built with cutting-edge AI technology, this tool provides real-time analysis of news articles and text content to determine their credibility and reliability. | [Live](https://fake-news-detector-ai.streamlit.app/) / [GitHub](https://github.com/HasiniPadakandla/Fake-News-Detector.git)                      |
+| Sentiment Analysis of Incoming Calls on Helpdesk | Sentiment Analysis of Incoming Calls on Helpdesk focuses on analysing the sentiment of incoming calls on the helpdesk raised by the customer.                                                                                                                                                                               | [GitHub](https://github.com/HasiniPadakandla/Sentiment-Analysis-of-Incoming-Calls-on-Helpdesk.git)                                               |
+| Face Mask Detection                              | Built a Face Mask Detection model using computer vision to automatically detect mask compliance from images.                                                                                                                                                                                                                | [GitHub](https://github.com/HasiniPadakandla/FaceMask-Detection.git)                                                                             |
+
+### MedSynth Health Risk Predictor
+
+**Technologies Used:** Python, Machine learning, Streamlit
+
+### Fake News Detection
+
+**Technologies Used:** Machine learning, Python, artificial intelligence,
+streamlit
+
+### Sentiment Analysis of Incoming Calls on Helpdesk
+
+**Technologies Used:** Machine Learning, Natural Language Processing, Python
+
+### Face Mask Detection
+
+**Technologies Used:** Machine learning, Deep learning, Computer Vision,
+Convolutional Neural Networks, Deep Neural networks
+
+## 🎓 Education
+
+| Institution                                             | Degree                 | Duration          |
+| ------------------------------------------------------- | ---------------------- | ----------------- |
+| Vignans Institute of Management an Technology for Women | Bachelor of Technology | 2021-12 - 2025-07 |
+
+### Bachelor of Technology in CSE - AIML
+
+_Vignans Institute of Management an Technology for Women_
+
+## 💼 Internships
+
+| Company                                     | Position                       | Duration          |
+| ------------------------------------------- | ------------------------------ | ----------------- |
+| UptoSkills                                  | AI Intern                      | 2025-10 - 2026-01 |
+| IBM SkillsBuild                             | AI & Cloud Technologies Intern | 2025-09 - 2025-10 |
+| VOIS                                        | Intern                         | 2025-09 - 2025-10 |
+| GlobalNext Consulting India Private Limited | AI & ML Intern                 | 2025-08 - 2025-10 |
+
+### AI Intern at UptoSkills
+
+Worked on Chat Bot Based Modules like Task Breakdown Engine, Response Engine.
+
+### AI & Cloud Technologies Intern at IBM SkillsBuild
+
+Developed Fake News Detector to help students and educators identify
+misinformation online.
+
+Achievements :
+
+• Real-time credibility analysis • Accuracy - 90–92%.
+
+### Intern at VOIS
+
+• Collaborated on a project analyzing conversational data using Large Language
+Models (LLMs).  
+• Strengthened skills in conversation intelligence and applied natural language
+processing (NLP).  
+• Gained practical exposure to AI applications in enhancing customer service
+analytics.
+
+### AI & ML Intern at GlobalNext Consulting India Private Limited
+
+Developed a predictive healthcare analytics system. Used ML and CTGAN-generated
+synthetic data to assess multi-morbidity risk in patients. Offers real-time
+single and batch predictions
+
+Accuracy achieved : 95% and 99%.
+
+## 📞 Contact & Links
+
+<div align="left">
+
+- 📫 How to reach me **hasinipadakandla@gmail.com**
+- 👨‍💻 All of my projects are available at
+  [https://github.com/HasiniPadakandla](https://github.com/HasiniPadakandla)
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasiniPadakandla)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasini-padakandla)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/hasinipadakandla)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 💻 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 💻 AI/ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;&nbsp;&nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;&nbsp;&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)&nbsp;&nbsp;&nbsp;![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;&nbsp;&nbsp;![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;&nbsp;![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+
+### 💻 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 💻 Framework
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 💻 Other
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/HasiniPadakandla?theme=gradient)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniPadakandla&layout=compact&theme=tokyonight&langs_count=10)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasiniPadakandla&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HasiniPadakandla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+**Thank you for visiting my profile! 😊**
+
+</div>
