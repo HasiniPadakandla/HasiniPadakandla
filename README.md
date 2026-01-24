@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm P. V. N. S. Hasini
 
-### AI Intern at UptoSkills
+### Working as AI Intern at UptoSkills
 
 <img src="https://github.com/HasiniPadakandla.png" alt="Hasini" width="150" height="150" style="border-radius: 50%;" />
 
@@ -19,7 +19,7 @@ problems.
 
 <div align="left">
 
-- 🌱 I'm currently learning **DSA algorithms on Leetcode**
+- 🌱 I'm currently learning **Generative AI and Prompt Engineering**
 
 </div>
 
