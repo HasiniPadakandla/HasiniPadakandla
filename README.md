@@ -34,12 +34,11 @@ problems.
 
 ### MedSynth Health Risk Predictor
 
-**Technologies Used:** Python, Machine learning, Streamlit
+**Technologies Used:** Python, Machine learning, Streamlit, Predictive Analytics
 
 ### Fake News Detection
 
-**Technologies Used:** Machine learning, Python, artificial intelligence,
-streamlit
+**Technologies Used:** Machine learning, Python, artificial intelligence, Streamlit
 
 ### Sentiment Analysis of Incoming Calls on Helpdesk
 
@@ -47,8 +46,7 @@ streamlit
 
 ### Face Mask Detection
 
-**Technologies Used:** Machine learning, Deep learning, Computer Vision,
-Convolutional Neural Networks, Deep Neural networks
+**Technologies Used:** Machine learning, Deep learning, Computer Vision, Convolutional Neural Networks, Deep Neural networks
 
 ## 🎓 Education
 
