@@ -32,21 +32,6 @@ problems.
 | Sentiment Analysis of Incoming Calls on Helpdesk | Sentiment Analysis of Incoming Calls on Helpdesk focuses on analysing the sentiment of incoming calls on the helpdesk raised by the customer.                                                                                                                                                                               | [GitHub](https://github.com/HasiniPadakandla/Sentiment-Analysis-of-Incoming-Calls-on-Helpdesk.git)                                               |
 | Face Mask Detection                              | Built a Face Mask Detection model using computer vision to automatically detect mask compliance from images.                                                                                                                                                                                                                | [GitHub](https://github.com/HasiniPadakandla/FaceMask-Detection.git)                                                                             |
 
-### MedSynth Health Risk Predictor
-
-**Technologies Used:** Python, Machine learning, Streamlit, Predictive Analytics
-
-### Fake News Detection
-
-**Technologies Used:** Machine learning, Python, artificial intelligence, Streamlit
-
-### Sentiment Analysis of Incoming Calls on Helpdesk
-
-**Technologies Used:** Machine Learning, Natural Language Processing, Python
-
-### Face Mask Detection
-
-**Technologies Used:** Machine learning, Deep learning, Computer Vision, Convolutional Neural Networks, Deep Neural networks
 
 ## 🎓 Education
 
