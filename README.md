@@ -52,36 +52,6 @@ _Vignans Institute of Management an Technology for Women_
 | VOIS                                        | Intern                         | 2025-09 - 2025-10 |
 | GlobalNext Consulting India Private Limited | AI & ML Intern                 | 2025-08 - 2025-10 |
 
-### AI Intern at UptoSkills
-
-Worked on Chat Bot Based Modules like Task Breakdown Engine, Response Engine.
-
-### AI & Cloud Technologies Intern at IBM SkillsBuild
-
-Developed Fake News Detector to help students and educators identify
-misinformation online.
-
-Achievements :
-
-• Real-time credibility analysis • Accuracy - 90–92%.
-
-### Intern at VOIS
-
-• Collaborated on a project analyzing conversational data using Large Language
-Models (LLMs).  
-• Strengthened skills in conversation intelligence and applied natural language
-processing (NLP).  
-• Gained practical exposure to AI applications in enhancing customer service
-analytics.
-
-### AI & ML Intern at GlobalNext Consulting India Private Limited
-
-Developed a predictive healthcare analytics system. Used ML and CTGAN-generated
-synthetic data to assess multi-morbidity risk in patients. Offers real-time
-single and batch predictions
-
-Accuracy achieved : 95% and 99%.
-
 ## 📞 Contact & Links
 
 <div align="left">
