@@ -10,16 +10,13 @@
 
 ## 🚀 About Me
 
-AIML enthusiast focused on building practical machine learning and NLP
-projects.  
-I enjoy turning data into insights and exploring how AI solves real-world
-problems.
+AI/ML enthusiast passionate about building real-world machine learning and NLP solutions. I love transforming raw data into meaningful insights and exploring how AI can solve impactful, real-world problems.
 
 ## 📚 Learning & Knowledge
 
 <div align="left">
 
-- 🌱 I'm currently learning **Generative AI and Prompt Engineering**
+- 🌱 I am currently studying Generative AI and Prompt Engineering.
 
 </div>
 
@@ -27,10 +24,10 @@ problems.
 
 | Project                                          | Description                                                                                                                                                                                                                                                                                                                 | Links                                                                                                                                            |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| MedSynth Health Risk Predictor                   | MedSynth Health Risk Predictor that uses machine learning and CTGAN-generated synthetic data to assess multi-morbidity risk in patients. It offers real-time single and batch predictions through a Streamlit dashboard, enabling early intervention, privacy-preserving insights, and scalable clinical deployment.        | [Live](https://medsynth-health-risk-predictor.streamlit.app/) / [GitHub](https://github.com/HasiniPadakandla/MedSynth-Health-Risk-Predictor.git) |
-| Fake News Detection                              | Fake News Detector is an innovative web application designed specifically for students and educators to combat the growing problem of misinformation online. Built with cutting-edge AI technology, this tool provides real-time analysis of news articles and text content to determine their credibility and reliability. | [Live](https://fake-news-detector-ai.streamlit.app/) / [GitHub](https://github.com/HasiniPadakandla/Fake-News-Detector.git)                      |
-| Sentiment Analysis of Incoming Calls on Helpdesk | Sentiment Analysis of Incoming Calls on Helpdesk focuses on analysing the sentiment of incoming calls on the helpdesk raised by the customer.                                                                                                                                                                               | [GitHub](https://github.com/HasiniPadakandla/Sentiment-Analysis-of-Incoming-Calls-on-Helpdesk.git)                                               |
-| Face Mask Detection                              | Built a Face Mask Detection model using computer vision to automatically detect mask compliance from images.                                                                                                                                                                                                                | [GitHub](https://github.com/HasiniPadakandla/FaceMask-Detection.git)                                                                             |
+| MedSynth Health Risk Predictor                   | A machine-learning model that uses CTGAN-generated synthetic data to assess multi-morbidity risk in patients. It offers real-time single- and batch-prediction capabilities through a Streamlit dashboard, enabling early intervention, privacy-preserving insights, and scalable clinical deployment.        | [Live](https://medsynth-health-risk-predictor.streamlit.app/) / [GitHub](https://github.com/HasiniPadakandla/MedSynth-Health-Risk-Predictor.git) |
+| Fake News Detection                              | Fake News Detector is a web application designed for students and educators to address the growing issue of online misinformation. Developed using advanced AI techniques, this tool performs real-time analysis of news articles and textual content to assess their credibility and reliability. | [Live](https://fake-news-detector-ai.streamlit.app/) / [GitHub](https://github.com/HasiniPadakandla/Fake-News-Detector.git)                      |
+| Sentiment Analysis of Incoming Calls on Helpdesk | Sentiment Analysis of Incoming Calls on Helpdesk focuses on analyzing the sentiment of customer-initiated incoming calls received by the helpdesk.                                                                                                                                                                              | [GitHub](https://github.com/HasiniPadakandla/Sentiment-Analysis-of-Incoming-Calls-on-Helpdesk.git)                                               |
+| Face Mask Detection                              | Developed a Face Mask Detection model using computer vision to automatically assess mask compliance from images.                                                                                                                                                                                                                | [GitHub](https://github.com/HasiniPadakandla/FaceMask-Detection.git)                                                                             |
 
 
 ## 🎓 Education
@@ -56,8 +53,8 @@ _Vignans Institute of Management an Technology for Women_
 
 <div align="left">
 
-- 📫 How to reach me **hasinipadakandla@gmail.com**
-- 👨‍💻 All of my projects are available at
+- 📫 Contact Information **hasinipadakandla@gmail.com**
+- 👨‍💻 All of my projects can be found at
   [https://github.com/HasiniPadakandla](https://github.com/HasiniPadakandla)
 
 </div>
@@ -112,6 +109,6 @@ _Vignans Institute of Management an Technology for Women_
 
 <div align="center">
 
-**Thank you for visiting my profile! 😊**
+**Thank you for visiting my profile.**
 
 </div>
