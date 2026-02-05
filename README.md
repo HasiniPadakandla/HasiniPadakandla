@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm P. V. N. S. Hasini
 
-### Working as AI Intern at UptoSkills
-
 <img src="https://github.com/HasiniPadakandla.png" alt="Hasini" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
@@ -16,7 +14,7 @@ AI/ML enthusiast passionate about building real-world machine learning and NLP s
 
 <div align="left">
 
-- 🌱 I am currently studying Generative AI and Prompt Engineering.
+- 🌱 I am currently learning Generative AI and Prompt Engineering.
 
 </div>
 
@@ -98,8 +96,6 @@ _Vignans Institute of Management an Technology for Women_
 <div align="center">
 
 ![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/HasiniPadakandla?theme=gradient)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniPadakandla&layout=compact&theme=tokyonight&langs_count=10)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasiniPadakandla&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
