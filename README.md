@@ -5,7 +5,7 @@ I'm an **AI/Machine Learning Enthusiast** with a strong interest in **NLP, ML, A
 I enjoy building practical projects, contributing to open source, and continuously improving my skills through hands-on work.
 
 ## 🚀 I’m Currently Working On
-- Machine Learning & NLP projects (Fake News Detection, Sentiment Analysis)
+- Machine Learning & NLP projects
 - Open-source contributions (documentation & beginner-friendly issues)
 - Improving project documentation and deployment workflows
 
