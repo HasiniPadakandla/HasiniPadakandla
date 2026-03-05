@@ -39,6 +39,7 @@ I enjoy building practical projects, contributing to open source, and continuous
  
 👉 Check my pinned repositories below for details.
 
+---
 
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=HasiniPadakandla&limit=5&theme=radical&combine_all_yearly_contributions=true)
