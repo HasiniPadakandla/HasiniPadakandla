@@ -1,4 +1,4 @@
-# Hi, I'm Hasini 👋  
+# Hi, I am Hasini👋  
 
 ## 💫 About Me:
 I'm an **AI/Machine Learning Enthusiast** with a strong interest in **NLP, ML, AI and real-world problem-solving**.  
@@ -6,7 +6,6 @@ I enjoy building practical projects, contributing to open source, and continuous
 
 ## 🚀 I’m Currently Working On
 - Machine Learning & NLP projects
-- Open-source contributions (documentation & beginner-friendly issues)
 - Improving project documentation and deployment workflows
 
 ## 💻 Skills & Technologies:
@@ -41,14 +40,8 @@ I enjoy building practical projects, contributing to open source, and continuous
 
 ---
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=HasiniPadakandla&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
 ## 📫 Let’s Connect:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasini-padakandla)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hasiniiisphere)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasinipadakandla@gmail.com) 
-
-### ⭐ *Always learning, building, and improving one step at a time.*
