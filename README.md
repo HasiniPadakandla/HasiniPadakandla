@@ -31,11 +31,12 @@ I enjoy building practical projects, contributing to open source, and continuous
 
 ## 📌 Featured Projects:
 
+- 📺 **TED TALK Recommendation System** - Content-Based Recommendation System
+- ❤️ **MedSynth Health Risk Predictor** - Medical Risk Prediction Dashboard
+- 🔍 **Fake News Detector** – NLP-based classification system 
 - 🛡️ **VerityFlow** - AI-Powered Scam Detection System
 - 🍃 **Food Freshness Classifier** - AI web application that analyzes food images and predicts freshness
-- ❤️ **MedSynth Health Risk Predictor** - Medical Risk Prediction Dashboard
-- 🔍 **Fake News Detector** – NLP-based classification system  
-
+ 
 👉 Check my pinned repositories below for details.
 
 
