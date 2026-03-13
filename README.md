@@ -1,6 +1,5 @@
 # Hi, I am Hasini👋  
 
-## 💫 About Me:
 I'm an **AI/Machine Learning Enthusiast** with a strong interest in **NLP, ML, AI and real-world problem-solving**.  
 I enjoy building practical projects, contributing to open source, and continuously improving my skills through hands-on work.
 
@@ -37,6 +36,12 @@ I enjoy building practical projects, contributing to open source, and continuous
 - 🍃 **Food Freshness Classifier** - AI web application that analyzes food images and predicts freshness
  
 👉 Check my pinned repositories below for details.
+
+---
+
+![Hasini's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasiniPadakandla&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniPadakandla&stats_format=bytes)
 
 ---
 
