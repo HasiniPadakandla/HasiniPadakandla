@@ -9,7 +9,7 @@ I enjoy building practical projects, contributing to open source, and continuous
 
 ## 💻 Skills & Technologies:
 
-### **Programming:**
+### **Programming Languages:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
@@ -38,8 +38,6 @@ I enjoy building practical projects, contributing to open source, and continuous
 ---
 
 ![Hasini's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasiniPadakandla&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniPadakandla&stats_format=bytes)
 
 ---
 
