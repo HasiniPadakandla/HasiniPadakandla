@@ -1,7 +1,7 @@
-# Hi, I am Hasini👋  
+# Hi, I am P. V. N. S. Hasini  
 
 I'm an **AI/Machine Learning Enthusiast** with a strong interest in **NLP, ML, AI and real-world problem-solving**.  
-I enjoy building practical projects, contributing to open source, and continuously improving my skills through hands-on work.
+I enjoy building practical projects, and continuously improving my skills through hands-on work.
 
 ## 🚀 I’m Currently Working On
 - Machine Learning & NLP projects
@@ -31,7 +31,7 @@ I enjoy building practical projects, contributing to open source, and continuous
 
 - ❤️ **MedSynth Health Risk Predictor** - Medical Risk Prediction Dashboard
 - 🔍 **Fake News Detector** – NLP-based classification system
-- 🏠 **Real Estate Price Intelligence System** - Residential Property Prices Prediction
+- 📞 **Sentiment Analysis of Incoming Calls on Helpdesk** - Analyse the Emotional tone of callers
  
 👉 Check my pinned repositories below for details.
 
@@ -44,5 +44,4 @@ I enjoy building practical projects, contributing to open source, and continuous
 ## 📫 Let’s Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasini-padakandla)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hasiniiisphere)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasinipadakandla@gmail.com) 
