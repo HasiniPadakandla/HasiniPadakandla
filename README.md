@@ -1,44 +1,78 @@
-# Hi, I am P. V. N. S. Hasini
+<h1 align="center">Hi, I am P. V. N. S. Hasini</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasini-padakandla)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasinipadakandla@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Building+AI+Projects">
+</p>
 
-I'm an **AI/Machine Learning Enthusiast** with a strong interest in **NLP, ML, AI and real-world problem-solving**.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasini-padakandla/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:hasinipadakandla@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yellow?logo=gmail" />
+  </a>
+</p>
+
+I'm an AI/Machine Learning Enthusiast with a strong interest in NLP, ML, AI and real-world problem-solving.  
 I enjoy building practical projects, and continuously improving my skills through hands-on work.
 
-## 🚀 I’m Currently Working On
-- Machine Learning & NLP projects
-- Improving project documentation and deployment workflows
+---
 
-## 💻 Skills & Technologies:
+## 💻 Skills & Technologies
 
-### **Programming Languages:**
+### 🧑‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white"/>
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+### 📊 Data Handling
+<p>
+  <img src="https://img.shields.io/badge/Keras-red?logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-grey"/>
+  <img src="https://img.shields.io/badge/NumPy-blue?logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-purple?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-orange?logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-darkblue?logo=plotly&logoColor=white"/>
+</p>
 
-### **Data:**
+### 🤖 Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-blue?logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&logoColor=white"/>
+</p>
 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-
-### **Machine Learning:**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-
-### **Frameworks & Tools:**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-teal?logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-red?logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
 ## 📌 Featured Projects:
+- ❤️ **MedSynth Health Risk Predictor** – Medical Risk Prediction Dashboard  
+- 📰 **Fake News Detector** – NLP-based classification system  
+- 📞 **Sentiment Analysis of Incoming Calls on Helpdesk** – Analyse the emotional tone of callers  
 
-- ❤️ **MedSynth Health Risk Predictor** - Medical Risk Prediction Dashboard
-- 🔍 **Fake News Detector** – NLP-based classification system
-- 📞 **Sentiment Analysis of Incoming Calls on Helpdesk** - Analyse the Emotional tone of callers
- 
 👉 Check my pinned repositories below for details.
 
 ---
 
-![Hasini's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasiniPadakandla&show_icons=true&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com/?user=HasiniPadakandla&theme=tokyonight) ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HasiniPadakandla&theme=tokyo-night)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HasiniPadakandla&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=HasiniPadakandla&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HasiniPadakandla&theme=tokyo-night)
