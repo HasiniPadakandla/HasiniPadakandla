@@ -1,4 +1,7 @@
-# Hi, I am P. V. N. S. Hasini  
+# Hi, I am P. V. N. S. Hasini
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasini-padakandla)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasinipadakandla@gmail.com) 
 
 I'm an **AI/Machine Learning Enthusiast** with a strong interest in **NLP, ML, AI and real-world problem-solving**.  
 I enjoy building practical projects, and continuously improving my skills through hands-on work.
@@ -38,10 +41,4 @@ I enjoy building practical projects, and continuously improving my skills throug
 ---
 
 ![Hasini's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasiniPadakandla&show_icons=true&theme=dracula)
-
----
-
-## 📫 Let’s Connect:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasini-padakandla)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasinipadakandla@gmail.com) 
+![GitHub Streak](https://streak-stats.demolab.com/?user=HasiniPadakandla&theme=tokyonight) ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HasiniPadakandla&theme=tokyo-night)
