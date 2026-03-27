@@ -67,7 +67,6 @@ I enjoy building practical projects, and continuously improving my skills throug
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasiniPadakandla&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
   <img src="https://streak-stats.demolab.com/?user=HasiniPadakandla&theme=tokyonight" height="170"/>
 </p>
 
