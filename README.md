@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I am P. V. N. S. Hasini</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Building+AI+Projects">
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/hasini-padakandla/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
   </a>
